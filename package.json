@@ -1,6 +1,6 @@
 {
-  "name": "use-wallet",
-  "version": "0.14.2",
+  "name": "@bombmoney/use-wallet",
+  "version": "0.15.1",
   "repository": "bombmoney/use-wallet",
   "author": "Aaron <aaron@1coin.io>",
   "license": "MIT",
